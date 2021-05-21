@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AncientWorld</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="txtHelpYear">Year</string>
+    <string name="txtHelpInfo">Tap the window for more information.</string>
+    <string name="txtHelpIcon">Tap the icons to show names.</string>
+    <string name="txtHelpSeek">Drag left and right to change the year.</string>
+    <string name="txtHelpMap">Drag the map to explore!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
