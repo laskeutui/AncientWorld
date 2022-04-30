@@ -1,11 +1,13 @@
 <resources>
     <string name="app_name">AncientWorld</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps">Ancient World</string>
     <string name="txtHelpYear">Year</string>
     <string name="txtHelpInfo">Tap the window for more information.</string>
-    <string name="txtHelpIcon">Tap the icons to show names.</string>
+    <string name="txtHelpIcon">Tap the icon to show a civilizations name and the area controlled at their peak power.</string>
     <string name="txtHelpSeek">Drag left and right to change the year.</string>
     <string name="txtHelpMap">Drag the map to explore!</string>
+    <string name="txtHelpPoly">Tap AREA to show all areas at once.</string>
+    <string name="txtHelpShowAll">Tap ALL to show all icons at once.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

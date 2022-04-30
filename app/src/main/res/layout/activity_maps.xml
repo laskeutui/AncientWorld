@@ -45,5 +45,28 @@
         android:text="\?"
         android:textSize="30sp" />
 
+    <ToggleButton
+        android:id="@+id/tglFullscreen"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right|bottom"
+        android:padding="10dp"
+        android:alpha="0.5"
+        android:layout_marginTop="20dp"
+        android:paddingRight="10dp"
+        android:textOff="All"
+        android:textOn="Few"/>
+
+    <ToggleButton
+        android:id="@+id/tglPolygons"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right|bottom"
+        android:padding="10dp"
+        android:alpha="0.5"
+        android:layout_marginRight="65dp"
+        android:paddingLeft="10dp"
+        android:textOff="Area"
+        android:textOn="Off"/>
 
 </fragment>
